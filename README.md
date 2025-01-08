@@ -1,5 +1,5 @@
 # 실시간 대화 속 가스라이팅 문장 위험 감지 앱서비스
-![a](https://github.com/user-attachments/assets/de34651a-26e3-45f1-82da-cfd8bb9cbfff)
+![image](https://github.com/user-attachments/assets/de34651a-26e3-45f1-82da-cfd8bb9cbfff)
 ![b](https://github.com/user-attachments/assets/9a25c1fb-0191-4271-baf6-904e7504b64b)
 ![c](https://github.com/user-attachments/assets/c5394b2d-74d2-4a8d-8111-f76a4787b48f)
 ![image](https://github.com/eoh9/Gaslighting_chat/assets/62730155/84d4e78c-c42a-46d3-b122-dfa93299ad4e)
