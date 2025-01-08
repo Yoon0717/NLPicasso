@@ -1,0 +1,9 @@
+pandas
+numpy
+torch
+transformers
+ratsnlp==1.0.53
+keras
+tensorflow==2.12  # 이 버전은 대체로 안정적이며 대부분의 패키지와 호환됩니다.
+typing-extensions>=4.6.1
+flask-ngrok

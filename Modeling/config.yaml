@@ -1,0 +1,37 @@
+# 데이터 및 모델 저장 경로
+data_root: 본인 환경에 맞는 경로 설정
+model_root: 본인 환경에 맞는 경로 설정
+sts_root: 본인 환경에 맞는 경로 설정
+chatbot_data: ./ChatbotData.csv
+gaslight_data: ./gaslight.csv
+
+# random seed
+random_seed: 2023
+
+# sample text
+sample_text: 내가 언제 그랫어? 너가 잘못 기억하고 있는거야
+
+# 토크나이저
+tokenizer: skt/kogpt2-base-v2
+
+# 하이퍼파라미터
+learning_rate: 3e-5
+epoch: 10
+batch_size: 32
+Sneg: -1e18
+max_len: 128 # 최대 시퀀스 길이 설정
+
+# optimizer
+optim: glsww
+
+# loss
+loss:
+    name: CrossEntropyLos
+    params: NULL
+
+# dataset hyperparameter
+random_state: 2000
+num_labels: 2
+
+# model load
+load_model: top_model_1_accuracy_0.95.pt
